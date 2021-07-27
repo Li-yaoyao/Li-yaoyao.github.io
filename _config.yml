@@ -81,13 +81,13 @@ service-worker: true
 friends: [
     {
         title: "抖音直播主播招募",
-        href: ""
+      
     },{
         title: "联系微信",
-        href: ""
+        
     },{
         title: "29739667",
-        href: ""
+        
     }
 ]
 
